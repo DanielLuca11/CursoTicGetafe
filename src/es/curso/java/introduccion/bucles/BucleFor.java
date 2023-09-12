@@ -6,7 +6,7 @@ public class BucleFor {
 		 
 		  
 //		for ( int num=0;  num<5 ;  num--  ) { 
-//			System.out.println("Hola Mundo" + num);
+//			System.out.println("Hola Mundo5" + num);
 //		}
 		
 //		for (int num=0; num<=50 ; num+=2) {
